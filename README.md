@@ -1,13 +1,13 @@
 **Hi there! I'm Marco Antonio, but just Marco is fine**😉
 
 I'm a Software Engineer and Instructor, and I've loved coding since I still was a 13 years old kid with no beard at all!
-I taught +100 students on basics of Computer Science and advanced JavaScript, alawys trying to transmit the same passion. As many others like me, I discovered teaching is the real way to really learn something, and I built my own teaching style on it, trying to transform every abstraction into concrete real life examples. 
+I taught +100 students on the basics of Computer Science and advanced JavaScript, always trying to transmit the same passion. As many others like me, I discovered teaching is the real way to learn something, and I built my teaching style on it, trying to transform every abstraction into concrete real-life examples. 
 
-I like to spend my coding time experimenting, finding new algorithms or practices which I can lately apply to my projects. I have a particular love for performing code, always aiming to find a faster snippet that still make the code readable for humans.
+I like to spend my coding time experimenting, finding new algorithms or practices which I can lately apply to my projects. I have a particular love for performing code, always aiming to find a faster snippet that still makes the code readable for humans.
 
-During my studies I worked with different programming languages such as C, Java and Python, but **I currently write most of my code in JavaScript and React.js, including creating some APIs with Node.js!**
+During my studies, I worked with different programming languages such as C, Java and Python, but **I currently write most of my code in JavaScript and React.js, including creating some APIs with Node.js!**
 
-When I'm not coding I like to write tech blog posts for the community, sharing the little I know of the immense ocean of CS. If you like to read some post and discuss about them, I'll be more than happy to speak with you 😄
+When I'm not coding I like to write tech blog posts for the community, sharing the little I know of the immense ocean of CS. If you like to read some post and discuss them, I'll be more than happy to speak with you 😄
 
 **Here you can find some of them from my [Medium page](https://medium.com/@marcoantonio.ghiani01):**
 
