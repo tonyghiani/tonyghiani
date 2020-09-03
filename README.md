@@ -19,7 +19,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           <a href="https://levelup.gitconnected.com/10-programming-code-smells-that-affect-your-codebase-e66104e0341d">
             <img
               alt="10 Programming Code Smells That Affect Your Codebase"
-              src="./assets/programming-smells.jpeg"
+              src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/programming-smells.jpeg"
             />
           </a>
         </td>
@@ -27,7 +27,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           <a href="https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada?source=friends_link&sk=62597805243671cb9b96e54b052fde58">
             <img
               alt="Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node"
-              src="./assets/learning-node.png"
+              src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/learning-node.png"
             />
           </a>
         </td>
@@ -35,7 +35,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           <a href="https://medium.com/better-programming/4-books-every-it-professional-should-read-and-why-b50628175372?source=friends_link&sk=70ee9016f1248f2d11a3977b24c9844f">
             <img
               alt="4 Books Everyone in Tech Should Read and Why"
-              src="./assets/four-books.jpeg"
+              src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/four-books.jpeg"
             />
           </a>
         </td>
