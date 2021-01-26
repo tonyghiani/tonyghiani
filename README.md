@@ -1,4 +1,9 @@
-**Hi there! I'm Marco Antonio, but just Marco is fine**😉
+## Hi there! I'm Marco Antonio, but just Marco is fine😉
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcoantonioghiani/)
+[![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@marcoantonio.ghiani01)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tonyghiani)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/marcoantonio_ghiani/)
 
 I'm a Software Engineer and Instructor, and I've loved coding since I still was a 13 years old kid with no beard at all!
 I taught +100 students on the basics of Computer Science and advanced JavaScript, always trying to transmit the same passion. As many others like me, I discovered teaching is the real way to learn something, and I built my teaching style on it, trying to transform every abstraction into concrete real-life examples. 
@@ -59,4 +64,4 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
 
 When I'm not coding I love to spend time with my family and friends, going out and doing social sports (playing beach volley at Barcelona's beach is a must!), dedicating also some time to reading when I'm chilling at home.
 
-If you have any further questions or just want to have a chat, feel free to send me a tweet or DM [**@tonyghiani**](https://twitter.com/tonyghiani) on Twitter! 🚀
+If you have any further questions or just want to have a chat, feel free to send me a tweet or DM!
