@@ -1,9 +1,9 @@
 ## Hi there! I'm Marco Antonio, but just Marco is fine, or Tony if you prefer! 😉
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonyghiani/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tonyghiani)
 [![Medium Badge](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-square&logo=medium&logoColor=white)](https://medium.com/@tonyghiani)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/tonyghiani)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tonyghiani/)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/tony_ghiani)
 
 I'm a Software Engineer and Instructor, and I've loved coding since I still was a 13 years old kid with no beard at all!
 I taught +100 students on the basics of Computer Science and advanced JavaScript, always trying to transmit the same passion. As many others like me, I discovered teaching is the real way to learn something, and I built my teaching style on it, trying to transform every abstraction into concrete real-life examples. 
