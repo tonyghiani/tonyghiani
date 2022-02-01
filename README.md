@@ -21,7 +21,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
     <tbody>
       <tr>
         <td>
-          <a href="https://levelup.gitconnected.com/10-programming-code-smells-that-affect-your-codebase-e66104e0341d">
+          <a href="https://marcoghiani.com/blog/10-programming-code-smells-that-affect-your-codebase">
             <img
               alt="10 Programming Code Smells That Affect Your Codebase"
               src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/programming-smells.jpeg"
@@ -29,7 +29,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           </a>
         </td>
         <td>
-          <a href="https://levelup.gitconnected.com/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node-25f6ac840ada?source=friends_link&sk=62597805243671cb9b96e54b052fde58">
+          <a href="https://marcoghiani.com/blog/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node">
             <img
               alt="Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node"
               src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/learning-node.png"
@@ -37,7 +37,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           </a>
         </td>
         <td>
-          <a href="https://medium.com/better-programming/4-books-every-it-professional-should-read-and-why-b50628175372?source=friends_link&sk=70ee9016f1248f2d11a3977b24c9844f">
+          <a href="https://marcoghiani.com/blog/4-books-everyone-in-tech-should-read-and-why">
             <img
               alt="4 Books Everyone in Tech Should Read and Why"
               src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/four-books.jpeg"
