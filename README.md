@@ -15,7 +15,7 @@ During my studies, I worked with different programming languages such as C, Java
 
 When I'm not coding I like to write tech blog posts for the community, sharing the little I know of the immense ocean of CS. If you like to read some post and discuss them, I'll be more than happy to speak with you 😄
 
-**Here you can find some of them from my [Medium page](https://medium.com/@marcoantonio.ghiani01):**
+**Here you can find some of them from my [Blog](https://marcoghiani.com/blog):**
 
 <div align="center">
   <table border="0" cellspacing="0" cellpadding="0">
@@ -30,10 +30,10 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           </a>
         </td>
         <td>
-          <a href="https://marcoghiani.com/blog/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node">
+          <a href="https://marcoghiani.com/blog/introducing-react-v18-examples">
             <img
-              alt="Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node"
-              src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/learning-node.png"
+              alt="Introducing React v18 with real-world examples"
+              src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/introducing-react-v18-examples--main.jpeg"
             />
           </a>
         </td>
@@ -53,7 +53,7 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
           <strong><a href="https://marcoghiani.com/blog/10-programming-code-smells-that-affect-your-codebase">10 Programming Code Smells That Affect Your Codebase</a></strong>
         </td>
         <td>
-          <strong><a href="https://marcoghiani.com/blog/moving-beyond-console-log-8-console-methods-you-should-use-when-debugging-javascript-and-node">Moving beyond console.log() — 8 Console Methods You Should Use When Debugging JavaScript and Node</a></strong>
+          <strong><a href="https://marcoghiani.com/blog/introducing-react-v18-examples">Introducing React v18 with real-world examples</a></strong>
         </td>
         <td>
           <strong><a href="https://marcoghiani.com/blog/4-books-everyone-in-tech-should-read-and-why">4 Books Everyone in Tech Should Read and Why</a></strong>
