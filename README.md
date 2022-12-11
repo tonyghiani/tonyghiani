@@ -63,6 +63,6 @@ When I'm not coding I like to write tech blog posts for the community, sharing t
   </table>
 </div>
 
-When I'm not coding I love to spend time with my family and friends, going out and doing social sports (playing beach volley at Barcelona's beach is a must!), dedicating also some time to reading when I'm chilling at home.
+When I'm not coding I love to spend time with my family and friends, going out and doing sport, dedicating also some time to reading when I'm chilling at home.
 
 If you have any further questions or just want to have a chat, feel free to send me a tweet or DM!
