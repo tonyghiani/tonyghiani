@@ -5,9 +5,9 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/tony_ghiani)
 
 <div align="center">
-  <a href="https://marcoghiani.com/blog/10-programming-code-smells-that-affect-your-codebase">
+  <a href="https://marcoghiani.com/">
     <img
-      alt="10 Programming Code Smells That Affect Your Codebase"
+      alt="My website and blog"
       src="https://github.com/marcoantonioghiani01/marcoantonioghiani01/raw/master/assets/profile_cover.png"
     />
   </a>
